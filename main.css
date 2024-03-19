@@ -61,7 +61,6 @@ body {
     padding: 20px;
 }
 
-/* Медиазапрос для мобильных устройств */
 @media only screen and (max-width: 600px) {
     .header {
         padding: 10px;
@@ -79,4 +78,9 @@ body {
         display: none;
     }
 }
+
+@media only screen and (max-width: 600px) {
+    /* стили для мобильных устройств */
+}
+
 
